@@ -8,7 +8,7 @@ Usually it's tools to make my life easier but sometimes it's tools for other peo
 with servers, or their buzzword usage (gotta have lots of buzz words).
 
 I started my "career" working in web development and then moved to the games industry which I like better.
-Right now I'm living in Vermont where I'm building a homestead to raise goats and sheep on so I can have a friend.
+Right now I'm living in Vermont where I'm building a homestead to raise goats and sheep on so I can have some one to talk to.
 While I'm doing that (it's a slow process) I'm working as a freelance programmer, moving from virtual town to virtual town slingin' code.
 And dazzlin' the locals.
 
